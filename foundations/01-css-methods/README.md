@@ -20,4 +20,4 @@ The properties you need to add to each element are:
 - Does the `p` element have CSS added via the internal method? Yes
 - Does the `button` element have CSS added via the inline method? Yes
 
-Exercises complete!
+Exercise complete!
